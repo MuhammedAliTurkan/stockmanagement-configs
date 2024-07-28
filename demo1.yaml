@@ -1,6 +1,6 @@
 spring:
   application:
-    name: product-service
+    name: demo1
   profiles:
     active: localhost
   main:
